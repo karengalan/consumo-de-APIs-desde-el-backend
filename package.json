@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.5",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.5.0"
+  },
+  "name": "consumo-de-apis-desde-el-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
